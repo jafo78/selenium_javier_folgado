@@ -1,0 +1,27 @@
+INICIO              public static void main (String args [] ) {
+GUARDAR (num)       int num = input.nextInt();
+GUARDAR (palabras)  String nombre = input.next();
+GUARDAR (decimales) float promedio = input.nextFloat();
+MOSTRAR             System.out.println(“TEXTO”);
+TECLADO             Scanner input = new Scanner(System.in);
+FIN
+
+for (valor inicial; condición; incremento){
+//hacer algo
+}
+
+for (int=1; i<=3; i++){
+    MOSTRAR (i);
+}
+
+while (condición){
+//CODIGO
+}
+
+int i=1;
+
+while (i<=3){
+MOSTRAR (i);
+i++;
+}
+
