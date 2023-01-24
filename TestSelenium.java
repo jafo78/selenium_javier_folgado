@@ -180,9 +180,3 @@ public class TestSelenium {
             driver.findElement(By.id("loginbutton")).submit();
     }
 }
-
-
-
-//    JavascriptExecutor js = (JavascriptExecutor) driver;
-//        js.executeScript("window.scrollTo(0, 1800)");
-//                js.executeScript("window.scrollTo(0, 0)");
